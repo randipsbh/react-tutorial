@@ -50,7 +50,7 @@ sudo rm ./google-chrome-stable_current_amd64.deb
 
 [Install Visual Studio Code](https://code.visualstudio.com/docs/setup/linux#_debian-and-ubuntu-based-distributions)
 ```sh
-sudo apt install ./code*.deb
+sudo apt install -y ./code*.deb
 ```
 
 
